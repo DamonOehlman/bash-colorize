@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DamonOehlman/bash-colorize/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/bash-colorize"
+  "homepage": "https://github.com/DamonOehlman/bash-colorize",
+  "dependencies": {
+    "bash-indexof": "git://github.com/DamonOehlman/bash-indexof"
+  }
 }
